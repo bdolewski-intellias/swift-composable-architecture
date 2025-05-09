@@ -15,9 +15,7 @@ SwiftUI, UIKit, and more, and on any Apple platform (iOS, macOS, iPadOS, visionO
 * [Basic usage](#basic-usage)
 * [Documentation](#documentation)
 * [FAQ](#faq)
-* [Community](#community)
-* [Installation](#installation)
-* [Translations](#translations)
+* [Community](#community
 
 ## What is the Composable Architecture?
 
